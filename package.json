@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "git@github.com:mrova/node-express-apollo.git",
   "author": "Michal Mrowiec <michal.mrowiec@simplesoft.pl>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^1.1.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.56.0"
+  }
 }
