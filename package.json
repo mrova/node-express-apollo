@@ -1,0 +1,9 @@
+{
+  "name": "node-express-apollo",
+  "version": "1.0.0",
+  "description": "GraphQL Apollo Server run on Express Edit",
+  "main": "index.js",
+  "repository": "git@github.com:mrova/node-express-apollo.git",
+  "author": "Michal Mrowiec <michal.mrowiec@simplesoft.pl>",
+  "license": "MIT"
+}
